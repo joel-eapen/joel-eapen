@@ -63,18 +63,6 @@
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
 </div>
 
-###
-
-<h3 align="left">My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=joel-eapen&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/joel-eapen/joel-eapen/snake-output/snake.svg" alt="Snake animation" />
 
 ###
